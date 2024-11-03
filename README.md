@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning Web & AI
 - 💞️ I’m looking to collaborate on React JS
-- 📫 How to reach me Github 
+- 📫 How to reach me via Github 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
